@@ -1,0 +1,45 @@
+{
+  "name": "pawid",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "AsyncStorage": "^0.1.5",
+    "antd": "^3.2.0",
+    "email-validator": "^1.1.1",
+    "hoist-non-react-statics": "^2.3.1",
+    "immutable": "^3.8.2",
+    "invariant": "^2.2.2",
+    "lodash": "4.17.4",
+    "node-less-chokidar": "^0.1.2",
+    "npm-run-all": "^4.1.2",
+    "prop-types": "^15.6.0",
+    "ramda": "^0.25.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-helmet": "^5.2.0",
+    "react-loadable": "4.0.3",
+    "react-redux": "5.0.5",
+    "react-router-dom": "^4.1.2",
+    "react-router-redux": "5.0.0-alpha.9",
+    "react-scripts": "1.1.1",
+    "recompose": "^0.26.0",
+    "redux": "3.7.2",
+    "redux-immutable": "4.0.0",
+    "redux-saga": "0.15.3",
+    "reselect": "3.0.1",
+    "styled-components": "^3.1.6",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "scripts": {
+    "start": "react-app-rewired  start",
+    "build": "react-app-rewired  build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.6.3",
+    "react-app-rewire-less": "^2.1.0",
+    "react-app-rewired": "^1.4.1"
+  },
+  "proxy": "http://localhost:8080"
+}
