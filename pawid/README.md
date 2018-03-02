@@ -1,3 +1,5 @@
+this application will be write by typescript and graphql later
+
 build with create react app and use the idea of inject saga and reducer of react-boilerplate
 
 I used a hackathons api server to host the backend rest api. I modifed it to use ES6 feature  and by using the asyncMiddleWare we could  use async await generator
@@ -5,7 +7,8 @@ the I create a ADO object and add the functions on its prototype chain instead o
 
 make sure you start the api server and start this application by using the following command
 
- npm run start please be aware that the default api server is http://localhost:8080. if you changed the api server port please also change the
+ npm run start
+ please be aware that the default api server is http://localhost:8080. if you changed the api server port please also change the
  "proxy": "http://localhost:8080" which located at the bottom of  the package.json  file.
 
 all the source code is located at src.

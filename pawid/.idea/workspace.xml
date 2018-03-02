@@ -42,8 +42,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="114" lean-forward="false" selection-start-line="3" selection-start-column="114" selection-end-line="3" selection-end-column="114" />
+            <state relative-caret-position="0">
+              <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -214,8 +214,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="149" />
-    <option name="y" value="141" />
+    <option name="x" value="321" />
+    <option name="y" value="134" />
     <option name="width" value="1722" />
     <option name="height" value="982" />
   </component>
@@ -438,12 +438,12 @@
       <workItem from="1519098418560" duration="32371000" />
       <workItem from="1519254793686" duration="24036000" />
       <workItem from="1519418770813" duration="55402000" />
-      <workItem from="1519965084314" duration="305000" />
+      <workItem from="1519965084314" duration="508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198753000" />
+    <option name="totallyTimeSpent" value="198956000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -455,7 +455,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="149" y="141" width="1722" height="982" extended-state="0" />
+    <frame x="321" y="134" width="1722" height="982" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24985303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -856,8 +856,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="114" lean-forward="false" selection-start-line="3" selection-start-column="114" selection-end-line="3" selection-end-column="114" />
+        <state relative-caret-position="0">
+          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
           <folding />
         </state>
       </provider>
